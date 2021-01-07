@@ -14,6 +14,6 @@ public class DemoService {
     }
 
     public int makeErr(int a,int b){
-        return a/b;
+        return a+b;
     }
 }
